@@ -11,7 +11,6 @@ I’m a Computer Engineering graduate with a focus in Cybersecurity and a passio
 Through my studies in computer engineering, I discovered a deep interest in cybersecurity and the critical role it plays in today’s world. This passion has shaped my career goals, and I am now excited to pursue a path in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can put my skills in threat detection, network forensics, and incident response into practice while continuing to grow as a professional.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
