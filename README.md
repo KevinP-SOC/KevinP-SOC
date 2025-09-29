@@ -12,14 +12,20 @@ Through my studies in computer engineering, I discovered a deep interest in cybe
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                              | Associated Project(s) |
+|---------------------------------------------------|-----------------------|
+| SIEM Implementation and Log Analysis              | <a href="https://github.com/KevinP-SOC/Detection-Lab">Detection Lab (Splunk)</a><br><a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot (Sentinel)</a><br><a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation (Wazuh)</a> |
+| Network Traffic Monitoring and Attack Detection   | <a href="https://github.com/KevinP-SOC/Detection-Lab">Detection Lab</a><br><a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot</a> |
+| Security Automation with Shuffle SOAR             | <a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation</a> |
+| Incident Response Planning and Execution          | <a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation</a><br><a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot</a> |
+| Case Management with TheHive                      | <a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation</a> |
+| Scripting and Automation for Threat Mitigation    | <a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation (Shuffle playbooks)</a><br><a href="https://github.com/KevinP-SOC/Active-Directory-Project/tree/main">Active Directory (PowerShell/GPO)</a> |
+| Active Directory & IAM (Users, OUs, GPOs, Lockout)| <a href="https://github.com/KevinP-SOC/Active-Directory-Project/tree/main">Active Directory 2.0 Lab</a> |
+| Endpoint Telemetry with Sysmon                    | <a href="https://github.com/KevinP-SOC/Detection-Lab">Detection Lab</a><br><a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation</a><br><a href="https://github.com/KevinP-SOC/Active-Directory-Project/tree/main">Active Directory</a><br><a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot</a> |
+| KQL for Threat Hunting (Microsoft Sentinel)       | <a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot</a> |
+| Threat Enrichment & Intel (VirusTotal)            | <a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation</a> |
+| Recon & Attack Simulation (nmap, Kali, payloads)  | <a href="https://github.com/KevinP-SOC/Detection-Lab">Detection Lab</a><br><a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot</a> |
+| Virtualization & Lab Design (VirtualBox/Azure)    | <a href="https://github.com/KevinP-SOC/Detection-Lab">Detection Lab (VirtualBox)</a><br><a href="https://github.com/KevinP-SOC/Cloud-Honeypot-Project">Cloud Honeypot (Azure)</a><br><a href="https://github.com/KevinP-SOC/SOC-Automation-Project">SOC Automation (VirtualBox)</a> |
 
 ## Tools
 
