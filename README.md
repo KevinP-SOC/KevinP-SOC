@@ -53,5 +53,8 @@ Through my studies in computer engineering, I discovered a deep interest in cybe
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Detection Lab](https://github.com/KevinP-SOC/Detection-Lab)
+- [SOC Automation Project](https://github.com/KevinP-SOC/SOC-Automation-Project)
+- [Cloud Honeypot Project](https://github.com/KevinP-SOC/Cloud-Honeypot-Project)
+- [Active Directory 2.0 Lab](https://github.com/KevinP-SOC/Active-Directory-Project/tree/main)
+
