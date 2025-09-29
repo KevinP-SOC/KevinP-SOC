@@ -10,6 +10,13 @@ I’m a Computer Engineering graduate with a focus in Cybersecurity and a passio
 
 Through my studies in computer engineering, I discovered a deep interest in cybersecurity and the critical role it plays in today’s world. This passion has shaped my career goals, and I am now excited to pursue a path in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can put my skills in threat detection, network forensics, and incident response into practice while continuing to grow as a professional.
 
+## Projects
+- [Detection Lab](https://github.com/KevinP-SOC/Detection-Lab)
+- [SOC Automation Project](https://github.com/KevinP-SOC/SOC-Automation-Project)
+- [Cloud Honeypot Project](https://github.com/KevinP-SOC/Cloud-Honeypot-Project)
+- [Active Directory 2.0 Lab](https://github.com/KevinP-SOC/Active-Directory-Project/tree/main)
+
+  
 ## Skills
 
 | Skill                                              | Associated Project(s) |
@@ -52,9 +59,5 @@ Through my studies in computer engineering, I discovered a deep interest in cybe
 
 </div>
 
-## Projects
-- [Detection Lab](https://github.com/KevinP-SOC/Detection-Lab)
-- [SOC Automation Project](https://github.com/KevinP-SOC/SOC-Automation-Project)
-- [Cloud Honeypot Project](https://github.com/KevinP-SOC/Cloud-Honeypot-Project)
-- [Active Directory 2.0 Lab](https://github.com/KevinP-SOC/Active-Directory-Project/tree/main)
+
 
